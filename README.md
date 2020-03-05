@@ -1,3 +1,3 @@
-<img width="300" src="./logo.svg"/>
+<img src="./logo.png"/>
 
 Work in progress home automation dashboard using NodeJS & Svelte
